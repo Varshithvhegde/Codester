@@ -18,7 +18,7 @@
 * Github: [@Varshithvhegde](https://github.com/Varshithvhegde)
 ## Description
 - It is a Android App to track all the Coding Coding Contests in the famous coding websites like gfg,Hackerrank,HackerEarth,so on....
-- It uses Api [https://kontests.net/api/v1/](https://kontests.net/api/v1/).
+- It uses Api [https://kontests.net](https://kontests.net).
 
 ## Screenshot
 
