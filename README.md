@@ -31,3 +31,4 @@ Give a ⭐️ if this project helped you!
 [<img src="https://raw.githubusercontent.com/Varshithvhegde/Scan_Me/master/direct-apk-download.png"
       alt="Direct apk download"
       height="80">](https://github.com/Varshithvhegde/Codester/releases/download/v1.0.0/app-debug.apk) 
+      
